@@ -5,7 +5,7 @@ This repo ccontains only the darkgray colored SVG files for the JW Modules plugi
 These edits are not maintained nor supported by JW.
 
 To use these files simply unzip res_dark.zip to your JW Modules plugin folder,
-rename the there folder that is called "res" to "res_backup".
+rename the folder that is called "res" to "res_backup".
 Then rename the unzipped folder "res_dark" to "res".
 
 This should work as there is nothing changed in the functionality of the plugin. 
